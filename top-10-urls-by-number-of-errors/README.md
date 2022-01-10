@@ -1,2 +1,2 @@
-## 1. Azure LB.
+## Testing script
 ![alt text](./img/test.png)
