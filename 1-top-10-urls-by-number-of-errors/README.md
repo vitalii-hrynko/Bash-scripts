@@ -1,2 +1,2 @@
 ## Testing script
-![some text](./img/1.png)
+![some text](../img/1.png)
